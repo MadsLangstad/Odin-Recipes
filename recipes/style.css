@@ -1,0 +1,36 @@
+body {
+  background: rgb(0, 70, 66);
+  text-align: center;
+}
+
+div {
+  width: 974px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+}
+
+h4 h2 h3 {
+  font-size: 40px;
+}
+
+ul li {
+  list-style: none;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+ol li {
+  font-size: 20px;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
